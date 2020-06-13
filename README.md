@@ -6,4 +6,5 @@ This tool is used to remove mentions of race in documents using Machine Learning
 
 
 `Ex:` The man, who was white, was scared of white paint, so much so that his face turned white with fear.
+
 `Response:` The man, who was [redacted], was scared of white paint, so much so that his face turned white with fear.
